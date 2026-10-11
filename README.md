@@ -29,7 +29,3 @@ A small Windows batch script that sorts files in the folder containing the scrip
 - It leaves folders, this script, other `.bat` / `.cmd` / `.ps1` scripts, and common incomplete-download files in place.
 - If a file with the same name already exists in the destination category folder, that file is skipped rather than intentionally overwritten.
 - Always read the batch file's source code and test it with sample files before using it on important folders. Review the preview before confirming.
-
-## License
-
-No license has been added by default. If you want other people to freely use, modify, and redistribute this project, choose and add an open-source license that matches your intentions.
